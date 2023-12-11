@@ -57,3 +57,7 @@ Contains a series of SQL queries designed to test the database's functionality, 
 ## Video Demo Link:
 
 - https://youtu.be/k6wo4pYm0Pg
+
+## Github link
+
+- https://github.com/hamzeelmii/comp-3005-final-project
