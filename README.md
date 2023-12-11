@@ -53,3 +53,7 @@ Discusses the assumptions made during the creation of the ER diagram and explain
 ### `test_queries.sql`
 
 Contains a series of SQL queries designed to test the database's functionality, including adding new records, updating existing data, and retrieving information.
+
+## Video Demo Link:
+
+- https://youtu.be/k6wo4pYm0Pg
